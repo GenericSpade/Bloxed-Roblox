@@ -1,2 +1,3 @@
 # Bloxed-Roblox
-Boosts your gameplay
+Hi this is Daniel,
+I have made this to boost your roblox gameplay!
