@@ -2,6 +2,7 @@
 # if you dont have the request module installed run this in command prompt:
 # python -m install requests
 
+import time
 import requests
 
 def finish():
